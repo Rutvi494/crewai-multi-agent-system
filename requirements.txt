@@ -1,0 +1,7 @@
+crewai
+openai
+langchain
+python-dotenv
+pandas
+requests
+jupyter
